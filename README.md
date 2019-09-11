@@ -7,11 +7,15 @@ Build Status
 # AGILE
 
 Installation guide: 
+
+
 (1) Install build: 
 -On your Android phone, enable app installation from unknown source (temporarily)
 -Connect Android to a laptop or PC
 -Downloadl AGILE.apk, right click the build file > send to > locate your Android phone
 -On your Android navigate to my Files > Installation files > Install the APK 
+
+
 
 (2) Install from source:
 -Download source code fron github
